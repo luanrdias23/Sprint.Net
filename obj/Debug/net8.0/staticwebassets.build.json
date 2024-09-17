@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b24L7SBCWYdJR25C8htqFdEcsEk8gW5Rlpdw5VuznYY=",
+  "Source": "AgroSenseAPI",
+  "BasePath": "_content/AgroSenseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
